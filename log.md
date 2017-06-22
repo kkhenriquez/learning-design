@@ -40,3 +40,12 @@ Takeaways:
 - Think thoroughly about what you want to learn from your research.
 - Ensure clear communication to your users.
 - Asking a question immediately after doing something can help you capture more relevant insights, make sure to balance this with not interrupting them.
+
+### June 21, 2017
+
+#### [Product Design with the World's Best Restaurants in Mind](https://www.invisionapp.com/blog/product-design-with-the-worlds-best-restaurants-in-mind/)
+
+Takeaways:
+- Your product’s website should effortlessly explain what your product does. Someone viewing your website should know within seconds what you’re offering.
+- Product design needs experimentation.
+- If people notice you’ve gone above and beyond for the small stuff, they might think it’s safe to assume you’ve gone all out for the whole shebang.
