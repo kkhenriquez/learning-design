@@ -49,3 +49,17 @@ Takeaways:
 - Your product’s website should effortlessly explain what your product does. Someone viewing your website should know within seconds what you’re offering.
 - Product design needs experimentation.
 - If people notice you’ve gone above and beyond for the small stuff, they might think it’s safe to assume you’ve gone all out for the whole shebang.
+
+### June 23, 2017
+
+#### [Applying Systems Thinking in Product Design](https://blog.intercom.com/applying-systems-thinking-in-product-design/)
+
+Takeaways:
+- What are the key elements in your product? How are they connected? What’s the overall purpose they serve?
+- Designing specific interactions this early can get in the way of designing the foundations of your product. It’s like choosing furniture when you don’t know how big your room is yet.
+
+#### [Design principle: IKEA effect](https://uxplanet.org/design-principle-ikea-effect-2d908b2de81)
+
+Takeaways:
+- The effort that users will put into completing the product to a complete state will transform into love for that product.
+- Simple actions requiring low effort and making the user feel like having high contribution will lower the fear of dealing with a new product.
