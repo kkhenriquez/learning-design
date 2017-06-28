@@ -74,3 +74,6 @@ Takeaways:
 - Defining the brand is like creating a box to work within. Now you know your boundaries, but you don’t know if you want to be in the center of the box, the upper left, or the bottom right.
 
 #### [Color Theory: Brief Guide for Designers](https://uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa)
+
+Takeaways:
+- The research provided by Colorcom showed that it takes only 90 seconds for people to make a subconscious judgment about a product and between 62% and 90% of that assessment is based on color alone.
