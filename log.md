@@ -63,3 +63,14 @@ Takeaways:
 Takeaways:
 - The effort that users will put into completing the product to a complete state will transform into love for that product.
 - Simple actions requiring low effort and making the user feel like having high contribution will lower the fear of dealing with a new product.
+
+### June 27, 2017
+
+#### [Brand to interface: A slice of a product design process](https://www.invisionapp.com/blog/brand-to-interface-product-design/)
+
+Takeaways:
+- An existing style guide shouldn’t stop anyone from doing a brand intake session. Brand intakes can also vary per product, so we can’t say we know what the product will feel/look like just because our client has a style guide.
+- Provide some spectrums where the product lies. It helps quite a bit when creating a visual system and gives you a bit tighter of a line to walk. 
+- Defining the brand is like creating a box to work within. Now you know your boundaries, but you don’t know if you want to be in the center of the box, the upper left, or the bottom right.
+
+#### [Color Theory: Brief Guide for Designers](https://uxplanet.org/color-theory-brief-guide-for-designers-76e11c57eaa)
