@@ -77,3 +77,19 @@ Takeaways:
 
 Takeaways:
 - The research provided by Colorcom showed that it takes only 90 seconds for people to make a subconscious judgment about a product and between 62% and 90% of that assessment is based on color alone.
+
+### June 29, 2017
+
+#### [25 Minute Design School](https://medium.muz.li/23-minute-design-school-6c938dd97f2b)
+
+Takeaways:
+- Process: Requirement gathering (ask the questions), user research.
+- Risky assumptioms: Try to pinpoint the disconnect. Then try to find a way to make the two sides align in a natural and mutually beneficial manner.
+- A journey should be designed with user goals in mind first, not product or business goals.
+- IA is the information backbone of the site; navigation refers to those elements in the UI that allow users to reach specific information on the site.
+
+#### [6 digital product design principles Yoda might live by](https://medium.muz.li/6-digital-product-design-principles-that-even-yoda-might-live-by-9b930c722cb7)
+
+Takeaways:
+- Data-driven design often leads to underwhelming products when creativity isn’t utilized as an edge in tandem with said data.
+- Understand that consistency is a core principle of great product development, BUT is not the most important thing! Presenting clear content / end-to-end architecture is.
