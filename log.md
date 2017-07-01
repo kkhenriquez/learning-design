@@ -93,3 +93,12 @@ Takeaways:
 Takeaways:
 - Data-driven design often leads to underwhelming products when creativity isn’t utilized as an edge in tandem with said data.
 - Understand that consistency is a core principle of great product development, BUT is not the most important thing! Presenting clear content / end-to-end architecture is.
+
+### June 30, 2017
+
+#### [Product Feedback You Should Ignore](https://blog.intercom.com/product-feedback-to-ignore/)
+
+Takeaways:
+- Never take advice from someone who doesn’t have to live with the consequences.
+- What people say they want is dependent on their context.
+- Ignore hypothetical or espoused behavior.
