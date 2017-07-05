@@ -102,3 +102,22 @@ Takeaways:
 - Never take advice from someone who doesn’t have to live with the consequences.
 - What people say they want is dependent on their context.
 - Ignore hypothetical or espoused behavior.
+
+### July 04, 2017
+
+#### [Building the Golden State Warriors of design teams](https://www.invisionapp.com/blog/scaling-design-teams-bob-baxley)
+
+Takeaways:
+- You can’t pick the right solution without criteria, and that criteria has to be tied back to a consistent vision—and that comes from the executive level.
+
+#### [Designers with these 3 skills work better with developers](https://www.invisionapp.com/blog/designers-coding-skills)
+
+Takeaways:
+- Github, the command line, HTTP REST.
+- What we do outside of work hours is just as important in becoming better designers.
+
+####
+
+Takeaways:
+- Don’t start making your designs pixel perfect until you’re sure you’ve designed the right thing. Build the right thing, then build the thing right.
+- No design is perfect the first time, so don’t force it to be. Ship, learn, and iterate. To master your craft, stay humble and keep learning from those around you.
