@@ -116,8 +116,18 @@ Takeaways:
 - Github, the command line, HTTP REST.
 - What we do outside of work hours is just as important in becoming better designers.
 
-####
+#### [‘Ship, learn, and iterate’: A chat with Cloudflare’s product designers](https://www.invisionapp.com/blog/cloudflare-design-team)
 
 Takeaways:
 - Don’t start making your designs pixel perfect until you’re sure you’ve designed the right thing. Build the right thing, then build the thing right.
 - No design is perfect the first time, so don’t force it to be. Ship, learn, and iterate. To master your craft, stay humble and keep learning from those around you.
+
+### July 06, 2017
+
+#### [A framework for measuring design maturity](https://uxdesign.cc/a-framework-for-measuring-design-maturity-8fdb578e82c)
+
+Takeaways:
+- The reality is that the design industry is extremely dynamic and the context can switch quickly and it's the same for the design team. Nothing will be perfect — everything can be perfected.
+- Have a clear Design System, Design Process and Design Vision.
+
+
