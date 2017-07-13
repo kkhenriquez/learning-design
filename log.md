@@ -130,4 +130,21 @@ Takeaways:
 - The reality is that the design industry is extremely dynamic and the context can switch quickly and it's the same for the design team. Nothing will be perfect — everything can be perfected.
 - Have a clear Design System, Design Process and Design Vision.
 
+### July 12, 2017
+
+#### [Atomic design: how to design systems of components](https://uxdesign.cc/atomic-design-how-to-design-systems-of-components-ab41f24f260e)
+
+Takeaways:
+- We should be creating beautiful and easy access to content, regardless of device, screen size or context.
+
+#### [Accessible floating labels](http://allthingssmitty.com/2016/09/25/accessible-floating-labels/)
+Takeaways:
+- About accesible labels in forms.
+
+#### [Mobile First, Desktop Worst](https://blog.prototypr.io/mobile-first-desktop-worst-f900909ae9e2)
+Takeaways:
+- The vast majority of people don’t care about the nuances of OSs, UI systems, and design languages. Users just want products that intuitively work.
+- there’s a happy middle ground that can be found on desktop that takes into account simplicity as well as clarity and efficiency.
+- Be consistent, not uniform.
+
 
