@@ -147,4 +147,24 @@ Takeaways:
 - there’s a happy middle ground that can be found on desktop that takes into account simplicity as well as clarity and efficiency.
 - Be consistent, not uniform.
 
+### July 16, 2017
+
+#### [Making Good Decisions as a Product Manager](https://medium.com/the-black-box-of-product-management/making-good-decisions-as-a-product-manager-c66ddacc9e2b)
+
+Takeaways:
+- Your confidence level on predicting a decision’s outcome is a function of how much information you have about the decision.
+- The more important a decision, the higher confidence you require and thus the more information you need.
+- Most decisions are not important.
+
+#### [Designed Degradations: UX Patterns for Hostile Environments.](https://uxdesign.cc/designed-degradations-ux-patterns-for-hostile-environments-7f308d819e50)
+
+Takeaways:
+- These kind of degradations exist to mitigate issues, not to make products more appealing.
+
+#### [A Man Seeks Career Advice](https://uxdesign.cc/a-man-seeks-career-advice-d92df8ce4a28)
+
+Takeaways:
+- A better designer is someone who understands how to take a product from inception to completion.
+
+
 
