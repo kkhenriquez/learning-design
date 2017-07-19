@@ -166,5 +166,21 @@ Takeaways:
 Takeaways:
 - A better designer is someone who understands how to take a product from inception to completion.
 
+### July 19, 2017
+
+#### [Why we can't let UX writing steal microcopy's thunder](https://www.invisionapp.com/blog/ux-writing-microcopy/)
+
+Takeaways:
+- What do users want to gain from entering the website? What are their pain points? What can make them trust your product, and what would make them feel suspicious?
+- Microcopy is the full application of UX, marketing, and branding practices to user experience throughout digital products.
+
+#### [6 ways to speed up and improve your product design process](https://www.invisionapp.com/blog/6-ways-speed-improve-product-design-process)
+
+Takeaways:
+- Improve design to developer handoffs
+- Eliminate the guesswork
+- Accelerate stakeholder reviews
+- Test early designs, target real problems
+- Make efficient workflows repeatable
 
 
