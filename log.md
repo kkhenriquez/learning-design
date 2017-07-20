@@ -183,6 +183,8 @@ Takeaways:
 - Test early designs, target real problems
 - Make efficient workflows repeatable
 
+### July 20, 2017
+
 #### [How to Get Stakeholders to Buy Into User Research](https://medium.com/@danmaccarone/the-ux-of-getting-started-in-ux-db0ef541b346)
 
 Takeaways:
