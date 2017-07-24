@@ -192,4 +192,12 @@ Takeaways:
 
 #### [The UX of Getting Started in UX](https://medium.com/@danmaccarone/the-ux-of-getting-started-in-ux-db0ef541b346)
 
+### July 23, 2017
+
+#### [Here's how to design ecommerce CTAs that convert](https://www.invisionapp.com/blog/ecommerce-ctas-that-convert/)
+
+Takeaways:
+- Don’t use generic wording like ‘See more’ for your primary CTAs.
+- One CTA per page.
+
 
