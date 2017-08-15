@@ -200,4 +200,28 @@ Takeaways:
 - Don’t use generic wording like ‘See more’ for your primary CTAs.
 - One CTA per page.
 
+### August 15, 2017
+
+#### [7 common mistakes to avoid on your next design proposal](https://www.invisionapp.com/blog/design-proposal-mistakes)
+
+Takeaways:
+- Let the clients choose on different levels of service.
+- Focus on them, not on you.
+- Offer solutions and results.
+
+#### [You will never get UX right](https://www.invisionapp.com/blog/user-experience-innovation)
+
+Takeaways:
+- Balance how much you adhere to standards with how much you push for innovation.
+
+#### [The golden age of UX won't last](https://www.fastcodesign.com/90135223/the-golden-age-of-ux-wont-last-heres-how-to-prepare-for-whats-next)
+
+Takeaways:
+- UX now is a given. Prepare to understand busineeds as well.
+- Understand product strategy, growth, marketing.
+
+#### [Your UX Team Needs a Design Technologist. Here’s Why.](https://blog.prototypr.io/your-ux-team-needs-a-design-technologist-heres-why-3426be8f78a)
+
+Takeaways:
+- Bringing a design technologist onboard will uplevel the technical competency across a UX team, increasing innovation and effectiveness.
 
