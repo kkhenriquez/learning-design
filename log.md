@@ -225,3 +225,10 @@ Takeaways:
 Takeaways:
 - Bringing a design technologist onboard will uplevel the technical competency across a UX team, increasing innovation and effectiveness.
 
+### August 24, 2017
+
+#### []()
+
+Takeaways:
+- Choose Your Niche. Stick With It
+
