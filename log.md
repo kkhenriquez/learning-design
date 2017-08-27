@@ -227,8 +227,22 @@ Takeaways:
 
 ### August 24, 2017
 
-#### []()
+#### [7 Ways to Improve Effiency as a Designer](https://medium.muz.li/7-ways-to-improve-efficiency-as-a-designer-30a358508eeb)
 
 Takeaways:
 - Choose Your Niche. Stick With It
+
+### August 27, 2017
+
+#### [Mirrored Atomicity](https://uxdesign.cc/mirrored-atomicity-ui-and-front-end-speaking-the-same-language-3ac5c2fe382b)
+
+Takeaways:
+- Well-defined components don’t leave room for consistency problems, no matter how many screens your project has.
+
+#### [To those new to design](https://medium.com/cca-interaction-design-thesis/to-those-new-to-design-ac216dfb7a4f)
+
+Takeaways:
+- Design is communication. Learn to communicate.
+- Critique with honesty and grace, receive critique with gratitude and transparency. You don’t have to do what they suggest, but you should at least think about it.
+- The optimistic can see the vision clearly and will keep urging the team toward that goal. But never, ever mistake happy, sunny positivity for optimism. The most optimistic people I know are not rays of sunshine; they are realists who keep believing in the face of the frustration.
 
