@@ -246,3 +246,14 @@ Takeaways:
 - Critique with honesty and grace, receive critique with gratitude and transparency. You don’t have to do what they suggest, but you should at least think about it.
 - The optimistic can see the vision clearly and will keep urging the team toward that goal. But never, ever mistake happy, sunny positivity for optimism. The most optimistic people I know are not rays of sunshine; they are realists who keep believing in the face of the frustration.
 
+### September 05, 2017
+
+#### [How to Design a Form Wizard](https://medium.com/commonux/how-to-design-a-form-wizard-b85fe1cc665a)
+
+Takeaways:
+- The goal is to bridge the gap between a user’s mental model, and the system’s data requirements.
+
+#### [The Minimum Viable Product Design Portfolio](https://blog.intercom.com/minimum-viable-product-design-portfolio/)
+
+Takeaways:
+- Sometimes something simple does the trick.
