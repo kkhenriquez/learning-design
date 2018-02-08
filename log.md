@@ -257,3 +257,10 @@ Takeaways:
 
 Takeaways:
 - Sometimes something simple does the trick.
+
+### February 08, 2018
+
+#### [Design Like a Teacher](http://alistapart.com/article/design-like-a-teacher)
+- User experience toolkits need to include developing a teaching mindset.
+- Be aware of context relating to the experience.
+- How we learn, instead of what we learn.
