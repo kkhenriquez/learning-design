@@ -264,3 +264,17 @@ Takeaways:
 - User experience toolkits need to include developing a teaching mindset.
 - Be aware of context relating to the experience.
 - How we learn, instead of what we learn.
+
+### February 27, 2018
+
+#### [Are breadcrumbs still fresh for UX?](https://medium.com/madison-ave-collective/are-breadcrumbs-still-fresh-for-ux-6e72b0f96e9b)
+- Yes, breadcrumbs continue to offer value, including the potential to improve user experience.
+- Try placing other links below the current link (e.g https://painwise.org/be-informed/understanding-pain-and-pain-management/)
+
+#### [Design Cop-out #2: Breadcrumbs](https://articles.uie.com/breadcrumbs/)
+- We’re recommending that when teams see users needing breadcrumbs, they look for other holistic design solutions.
+- Sometimes using a breadcrumb treats the symptom but not the cause of the problem.
+
+#### [Breadcrumbs For Web Sites: What, When and How](https://uxplanet.org/breadcrumbs-for-web-sites-what-when-and-how-9273dacf1960)
+- You should not use fancy fonts or bright color because these will beat the very purpose of using breadcrumb navigation.
+- If you’re on mobile and you feel you need breadcrumbs to navigate then something probably went wrong with designing your site for mobile use. Most probably your site is too complex (too deeply nested) for this particular type of usage and environment that mobile provides.
